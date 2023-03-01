@@ -80,11 +80,6 @@
   "mot": "abasourdissement"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0753"
-  },
-  "mot": "abat-jour"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f0754"
   },
   "mot": "abats"
@@ -2350,11 +2345,6 @@
   "mot": "aériens"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0919"
-  },
-  "mot": "aéro-club"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f091a"
   },
   "mot": "aérodrome"
@@ -3268,11 +3258,6 @@
     "$oid": "63fdca85dc4b9b19d10f09d0"
   },
   "mot": "aidés"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f09d1"
-  },
-  "mot": "aide-soignant"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f09d2"
@@ -5093,11 +5078,6 @@
     "$oid": "63fdca85dc4b9b19d10f0b3d"
   },
   "mot": "amoureux"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0b3e"
-  },
-  "mot": "amour-propre"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f0b3f"
@@ -7315,11 +7295,6 @@
   "mot": "après"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0cfa"
-  },
-  "mot": "après-midi"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f0cfb"
   },
   "mot": "âpreté"
@@ -8085,16 +8060,6 @@
   "mot": "arriéré"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0d94"
-  },
-  "mot": "arrière-garde"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0d95"
-  },
-  "mot": "arrière-plan"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f0d96"
   },
   "mot": "arrières"
@@ -8683,11 +8648,6 @@
     "$oid": "63fdca85dc4b9b19d10f0e0b"
   },
   "mot": "asservir"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0e0c"
-  },
-  "mot": "asseyez-vous"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f0e0d"
@@ -9760,26 +9720,6 @@
   "mot": "audacieux"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0ee3"
-  },
-  "mot": "au-dehors"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0ee4"
-  },
-  "mot": "au-dessous"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0ee5"
-  },
-  "mot": "au-dessus"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0ee6"
-  },
-  "mot": "au-devant"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f0ee7"
   },
   "mot": "audience"
@@ -10370,11 +10310,6 @@
   "mot": "autos"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f5d"
-  },
-  "mot": "auto-stop"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f0f5e"
   },
   "mot": "autour"
@@ -10578,36 +10513,6 @@
     "$oid": "63fdca85dc4b9b19d10f0f86"
   },
   "mot": "avantageux"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f87"
-  },
-  "mot": "avant-garde"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f88"
-  },
-  "mot": "avant-gardiste"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f89"
-  },
-  "mot": "avant-hier"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f8a"
-  },
-  "mot": "avant-propos"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f8b"
-  },
-  "mot": "avant-scène"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f0f8c"
-  },
-  "mot": "avant-toit"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f0f8d"
@@ -11795,11 +11700,6 @@
   "mot": "banjo"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f107a"
-  },
-  "mot": "bank-note"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f107b"
   },
   "mot": "banlieue"
@@ -12240,11 +12140,6 @@
   "mot": "bases"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f10d3"
-  },
-  "mot": "bas-fonds"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f10d4"
   },
   "mot": "basilique"
@@ -12260,19 +12155,9 @@
   "mot": "basket"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f10d7"
-  },
-  "mot": "basket-ball"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f10d8"
   },
   "mot": "basque"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f10d9"
-  },
-  "mot": "bas-relief"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f10da"
@@ -12615,21 +12500,6 @@
   "mot": "beaucoup"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f111e"
-  },
-  "mot": "beau-fils"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f111f"
-  },
-  "mot": "beau-frère"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1120"
-  },
-  "mot": "beau-père"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1121"
   },
   "mot": "beauté"
@@ -12820,19 +12690,9 @@
   "mot": "belle"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1147"
-  },
-  "mot": "belle-fille"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1148"
   },
   "mot": "belles"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1149"
-  },
-  "mot": "belle-sœur"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f114a"
@@ -13368,16 +13228,6 @@
     "$oid": "63fdca85dc4b9b19d10f11b4"
   },
   "mot": "bien"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f11b5"
-  },
-  "mot": "bien-aimé"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f11b6"
-  },
-  "mot": "bien-être"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f11b7"
@@ -15100,11 +14950,6 @@
   "mot": "boutanche"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f130f"
-  },
-  "mot": "boute-en-train"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1310"
   },
   "mot": "bouteille"
@@ -16403,11 +16248,6 @@
     "$oid": "63fdca85dc4b9b19d10f1413"
   },
   "mot": "caché"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1414"
-  },
-  "mot": "cache-cache"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f1415"
@@ -18455,16 +18295,6 @@
   "mot": "celle"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f15ae"
-  },
-  "mot": "celle-ci"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f15af"
-  },
-  "mot": "celle-là"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f15b0"
   },
   "mot": "celles"
@@ -18493,16 +18323,6 @@
     "$oid": "63fdca85dc4b9b19d10f15b5"
   },
   "mot": "celui"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f15b6"
-  },
-  "mot": "celui-ci"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f15b7"
-  },
-  "mot": "celui-là"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f15b8"
@@ -18750,11 +18570,6 @@
   "mot": "cerf"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f15e9"
-  },
-  "mot": "cerf-volant"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f15ea"
   },
   "mot": "Cergy"
@@ -18915,11 +18730,6 @@
   "mot": "cessez"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f160a"
-  },
-  "mot": "cessez-le-feu"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f160b"
   },
   "mot": "cession"
@@ -18943,16 +18753,6 @@
     "$oid": "63fdca85dc4b9b19d10f160f"
   },
   "mot": "ceux"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1610"
-  },
-  "mot": "ceux-ci"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1611"
-  },
-  "mot": "ceux-là"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f1612"
@@ -19845,11 +19645,6 @@
   "mot": "chauffé"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f16c4"
-  },
-  "mot": "chauffe-eau"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f16c5"
   },
   "mot": "chauffer"
@@ -19895,11 +19690,6 @@
   "mot": "chausser"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f16ce"
-  },
-  "mot": "chausse-trappe"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f16cf"
   },
   "mot": "chaussette"
@@ -19938,11 +19728,6 @@
     "$oid": "63fdca85dc4b9b19d10f16d6"
   },
   "mot": "chef"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f16d7"
-  },
-  "mot": "chef-d'œuvre"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f16d8"
@@ -20223,11 +20008,6 @@
     "$oid": "63fdca85dc4b9b19d10f170f"
   },
   "mot": "chèvres"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1710"
-  },
-  "mot": "chewing-gum"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f1711"
@@ -20633,21 +20413,6 @@
     "$oid": "63fdca85dc4b9b19d10f1761"
   },
   "mot": "chouette"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1762"
-  },
-  "mot": "chou-fleur"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1763"
-  },
-  "mot": "chou-navet"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1764"
-  },
-  "mot": "chou-rave"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f1765"
@@ -21805,11 +21570,6 @@
   "mot": "coca"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f184c"
-  },
-  "mot": "Coca-Cola"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f184d"
   },
   "mot": "cocaïne"
@@ -22828,11 +22588,6 @@
     "$oid": "63fdca85dc4b9b19d10f1918"
   },
   "mot": "commissaire"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1919"
-  },
-  "mot": "commissaire-priseur"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f191a"
@@ -26300,11 +26055,6 @@
   "mot": "contrepartie"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1bcf"
-  },
-  "mot": "contre-pied"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1bd0"
   },
   "mot": "contrepoids"
@@ -27340,11 +27090,6 @@
   "mot": "couché"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1c9f"
-  },
-  "mot": "couche-culotte"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1ca0"
   },
   "mot": "coucher"
@@ -27995,29 +27740,9 @@
   "mot": "couvre"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1d22"
-  },
-  "mot": "couvre-chef"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1d23"
-  },
-  "mot": "couvre-feu"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1d24"
-  },
-  "mot": "couvre-lit"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1d25"
   },
   "mot": "couvrent"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1d26"
-  },
-  "mot": "couvre-pied"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f1d27"
@@ -28470,11 +28195,6 @@
   "mot": "crevé"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1d81"
-  },
-  "mot": "crève-cœur"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f1d82"
   },
   "mot": "crever"
@@ -28668,16 +28388,6 @@
     "$oid": "63fdca85dc4b9b19d10f1da8"
   },
   "mot": "croc"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1da9"
-  },
-  "mot": "croc-en-jambe"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f1daa"
-  },
-  "mot": "croche-pied"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f1dab"
@@ -31885,34 +31595,9 @@
   "mot": "demi"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f202c"
-  },
-  "mot": "demi-cercle"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f202d"
-  },
-  "mot": "demi-droite"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f202e"
   },
   "mot": "demie"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f202f"
-  },
-  "mot": "demi-finale"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f2030"
-  },
-  "mot": "demi-lune"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f2031"
-  },
-  "mot": "demi-pension"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f2032"
@@ -31948,11 +31633,6 @@
     "$oid": "63fdca85dc4b9b19d10f2038"
   },
   "mot": "démissions"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f2039"
-  },
-  "mot": "demi-tour"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f203a"
@@ -33630,19 +33310,9 @@
   "mot": "dessous"
 },{
   "_id": {
-    "$oid": "63fdca85dc4b9b19d10f2189"
-  },
-  "mot": "dessous-de-table"
-},{
-  "_id": {
     "$oid": "63fdca85dc4b9b19d10f218a"
   },
   "mot": "dessus"
-},{
-  "_id": {
-    "$oid": "63fdca85dc4b9b19d10f218b"
-  },
-  "mot": "dessus-de-lit"
 },{
   "_id": {
     "$oid": "63fdca85dc4b9b19d10f218c"
@@ -36235,16 +35905,6 @@
   "mot": "dixième"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2392"
-  },
-  "mot": "dix-neuf"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2393"
-  },
-  "mot": "dix-neuvième"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f2394"
   },
   "mot": "dizaine"
@@ -37583,11 +37243,6 @@
     "$oid": "63fdca86dc4b9b19d10f249f"
   },
   "mot": "eau de toilette"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f24a0"
-  },
-  "mot": "eau-de-vie"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f24a1"
@@ -41180,11 +40835,6 @@
   "mot": "enterrer"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f276f"
-  },
-  "mot": "en-tête"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f2770"
   },
   "mot": "entêté"
@@ -42820,16 +42470,6 @@
   "mot": "essorer"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f28b7"
-  },
-  "mot": "essuie-glace"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f28b8"
-  },
-  "mot": "essuie-mains"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f28b9"
   },
   "mot": "essuyé"
@@ -43160,19 +42800,9 @@
   "mot": "étatiques"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f28fb"
-  },
-  "mot": "état-major"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f28fc"
   },
   "mot": "états"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f28fd"
-  },
-  "mot": "Etats-Unis"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f28fe"
@@ -46305,11 +45935,6 @@
   "mot": "faux pas"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2b70"
-  },
-  "mot": "faux-col"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f2b71"
   },
   "mot": "Favart"
@@ -49315,21 +48940,6 @@
   "mot": "Franck"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2dca"
-  },
-  "mot": "franc-maçon"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2dcb"
-  },
-  "mot": "franc-maçonnerie"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2dcc"
-  },
-  "mot": "franc-maçonnique"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f2dcd"
   },
   "mot": "franco"
@@ -50620,26 +50230,6 @@
   "mot": "gardé"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2ecf"
-  },
-  "mot": "garde-corps"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2ed0"
-  },
-  "mot": "garde-fou"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2ed1"
-  },
-  "mot": "garde-frontière"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2ed2"
-  },
-  "mot": "garde-manger"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f2ed3"
   },
   "mot": "Garden"
@@ -50658,11 +50248,6 @@
     "$oid": "63fdca86dc4b9b19d10f2ed6"
   },
   "mot": "gardera"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f2ed7"
-  },
-  "mot": "garde-robe"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f2ed8"
@@ -52370,16 +51955,6 @@
   "mot": "grandissante"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f302d"
-  },
-  "mot": "grand-mère"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f302e"
-  },
-  "mot": "grand-père"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f302f"
   },
   "mot": "grands"
@@ -52490,16 +52065,6 @@
   "mot": "gratouiller"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3045"
-  },
-  "mot": "gratte-ciel"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3046"
-  },
-  "mot": "gratte-papier"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3047"
   },
   "mot": "gratter"
@@ -52598,11 +52163,6 @@
     "$oid": "63fdca86dc4b9b19d10f305a"
   },
   "mot": "Grèce"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f305b"
-  },
-  "mot": "gréco-latin"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f305c"
@@ -52823,11 +52383,6 @@
     "$oid": "63fdca86dc4b9b19d10f3087"
   },
   "mot": "grippe"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3088"
-  },
-  "mot": "grippe-sou"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3089"
@@ -53103,11 +52658,6 @@
     "$oid": "63fdca86dc4b9b19d10f30bf"
   },
   "mot": "guet"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f30c0"
-  },
-  "mot": "guet-apens"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f30c1"
@@ -53805,11 +53355,6 @@
   "mot": "hautain"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f314c"
-  },
-  "mot": "haut-de-forme"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f314d"
   },
   "mot": "haute"
@@ -53828,11 +53373,6 @@
     "$oid": "63fdca86dc4b9b19d10f3150"
   },
   "mot": "hauteur"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3151"
-  },
-  "mot": "haut-parleur"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3152"
@@ -55378,11 +54918,6 @@
     "$oid": "63fdca86dc4b9b19d10f3286"
   },
   "mot": "ici peu"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3287"
-  },
-  "mot": "ici-bas"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3288"
@@ -61505,11 +61040,6 @@
   "mot": "Jésus"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3750"
-  },
-  "mot": "Jésus-Christ"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3751"
   },
   "mot": "jet"
@@ -62655,11 +62185,6 @@
   "mot": "La Valette"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3836"
-  },
-  "mot": "là-bas"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3837"
   },
   "mot": "label"
@@ -62960,11 +62485,6 @@
   "mot": "laisserait"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3873"
-  },
-  "mot": "laisser-aller"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3874"
   },
   "mot": "laissés"
@@ -62973,11 +62493,6 @@
     "$oid": "63fdca86dc4b9b19d10f3875"
   },
   "mot": "laissez"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3876"
-  },
-  "mot": "laissez-passer"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3877"
@@ -63465,11 +62980,6 @@
   "mot": "lavé"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f38d8"
-  },
-  "mot": "lave-auto"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f38d9"
   },
   "mot": "laver"
@@ -63558,11 +63068,6 @@
     "$oid": "63fdca86dc4b9b19d10f38ea"
   },
   "mot": "lécher"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f38eb"
-  },
-  "mot": "lèche-vitrines"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f38ec"
@@ -64090,11 +63595,6 @@
   "mot": "levés"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3955"
-  },
-  "mot": "lève-tôt"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3956"
   },
   "mot": "Lévi"
@@ -64488,11 +63988,6 @@
     "$oid": "63fdca86dc4b9b19d10f39a4"
   },
   "mot": "lieu"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f39a5"
-  },
-  "mot": "lieu-dit"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f39a6"
@@ -64970,11 +64465,6 @@
   "mot": "Liverpool"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3a05"
-  },
-  "mot": "living-room"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3a06"
   },
   "mot": "livraison"
@@ -65350,11 +64840,6 @@
   "mot": "longueurs"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3a51"
-  },
-  "mot": "longue-vue"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3a52"
   },
   "mot": "look"
@@ -65678,11 +65163,6 @@
     "$oid": "63fdca86dc4b9b19d10f3a92"
   },
   "mot": "lui"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3a93"
-  },
-  "mot": "lui-même"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3a94"
@@ -67355,11 +66835,6 @@
   "mot": "maréchal"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3be2"
-  },
-  "mot": "maréchal-ferrant"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3be3"
   },
   "mot": "marée"
@@ -67788,11 +67263,6 @@
     "$oid": "63fdca86dc4b9b19d10f3c38"
   },
   "mot": "Martinique"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3c39"
-  },
-  "mot": "martin-pêcheur"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3c3a"
@@ -69790,11 +69260,6 @@
   "mot": "micro"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3dc9"
-  },
-  "mot": "micro-"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3dca"
   },
   "mot": "microbe"
@@ -69803,16 +69268,6 @@
     "$oid": "63fdca86dc4b9b19d10f3dcb"
   },
   "mot": "microgrenu"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3dcc"
-  },
-  "mot": "micro-ordinateur"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3dcd"
-  },
-  "mot": "micro-organisme"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3dce"
@@ -70470,11 +69925,6 @@
   "mot": "Mitchell"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3e51"
-  },
-  "mot": "mi-temps"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3e52"
   },
   "mot": "mitigé"
@@ -70810,11 +70260,6 @@
   "mot": "moi"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3e95"
-  },
-  "mot": "moi-même"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f3e96"
   },
   "mot": "moindre"
@@ -70883,11 +70328,6 @@
     "$oid": "63fdca86dc4b9b19d10f3ea3"
   },
   "mot": "moissonneuse"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3ea4"
-  },
-  "mot": "moissonneuse-batteuse"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3ea5"
@@ -71098,11 +70538,6 @@
     "$oid": "63fdca86dc4b9b19d10f3ece"
   },
   "mot": "Monnet"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3ecf"
-  },
-  "mot": "mono-"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3ed0"
@@ -71648,11 +71083,6 @@
     "$oid": "63fdca86dc4b9b19d10f3f3c"
   },
   "mot": "motards"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f3f3d"
-  },
-  "mot": "mot-clef"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f3f3e"
@@ -73875,26 +73305,6 @@
   "mot": "nonciature"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f40fa"
-  },
-  "mot": "non-engagé"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f40fb"
-  },
-  "mot": "non-immixtion"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f40fc"
-  },
-  "mot": "non-ingérence"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f40fd"
-  },
-  "mot": "non-intervention"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f40fe"
   },
   "mot": "nonne"
@@ -73903,31 +73313,6 @@
     "$oid": "63fdca86dc4b9b19d10f40ff"
   },
   "mot": "nonobstant"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4100"
-  },
-  "mot": "non-sens"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4101"
-  },
-  "mot": "non-sismique"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4102"
-  },
-  "mot": "non-stop"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4103"
-  },
-  "mot": "non-valable"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4104"
-  },
-  "mot": "non-voyant"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4105"
@@ -74270,11 +73655,6 @@
   "mot": "Nouveau Testament"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4149"
-  },
-  "mot": "nouveau-né"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f414a"
   },
   "mot": "nouveauté"
@@ -74308,11 +73688,6 @@
     "$oid": "63fdca86dc4b9b19d10f4150"
   },
   "mot": "nouvelles"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4151"
-  },
-  "mot": "Nouvelle-Zélande"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4152"
@@ -74503,11 +73878,6 @@
     "$oid": "63fdca86dc4b9b19d10f4177"
   },
   "mot": "nunuche"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4178"
-  },
-  "mot": "nu-pieds"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4179"
@@ -75330,11 +74700,6 @@
   "mot": "oiseau"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f421d"
-  },
-  "mot": "oiseau-mouche"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f421e"
   },
   "mot": "oiseaux"
@@ -75503,11 +74868,6 @@
     "$oid": "63fdca86dc4b9b19d10f423f"
   },
   "mot": "ondes"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4240"
-  },
-  "mot": "on-dit"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4241"
@@ -76585,11 +75945,6 @@
   "mot": "oukase"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4318"
-  },
-  "mot": "Oulan-Bator"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4319"
   },
   "mot": "ouragan"
@@ -77580,19 +76935,9 @@
   "mot": "parcs"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f43df"
-  },
-  "mot": "par-derrière"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f43e0"
   },
   "mot": "pardessus"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f43e1"
-  },
-  "mot": "par-dessus"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f43e2"
@@ -77613,11 +76958,6 @@
     "$oid": "63fdca86dc4b9b19d10f43e5"
   },
   "mot": "paré"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f43e6"
-  },
-  "mot": "pare-brise"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f43e7"
@@ -78400,11 +77740,6 @@
   "mot": "passent"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4483"
-  },
-  "mot": "passe-partout"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4484"
   },
   "mot": "passeport"
@@ -78983,11 +78318,6 @@
     "$oid": "63fdca86dc4b9b19d10f44f7"
   },
   "mot": "peaufiner"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f44f8"
-  },
-  "mot": "peau-rouge"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f44f9"
@@ -80360,11 +79690,6 @@
   "mot": "pèsent"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f460b"
-  },
-  "mot": "pèse-personne"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f460c"
   },
   "mot": "peser"
@@ -80425,19 +79750,9 @@
   "mot": "petite"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4618"
-  },
-  "mot": "petite-fille"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4619"
   },
   "mot": "petites"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f461a"
-  },
-  "mot": "petit-fils"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f461b"
@@ -80990,11 +80305,6 @@
   "mot": "pictural"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4689"
-  },
-  "mot": "pic-vert"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f468a"
   },
   "mot": "pie"
@@ -81238,11 +80548,6 @@
     "$oid": "63fdca86dc4b9b19d10f46ba"
   },
   "mot": "pincettes"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f46bb"
-  },
-  "mot": "ping-pong"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f46bc"
@@ -81813,16 +81118,6 @@
     "$oid": "63fdca86dc4b9b19d10f472d"
   },
   "mot": "plateaux"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f472e"
-  },
-  "mot": "plate-bande"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f472f"
-  },
-  "mot": "plate-forme"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4730"
@@ -82855,49 +82150,14 @@
   "mot": "porté"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f47fe"
-  },
-  "mot": "porte-bagages"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f47ff"
-  },
-  "mot": "porte-billets"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4800"
-  },
-  "mot": "porte-clefs"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4801"
-  },
-  "mot": "porte-clés"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4802"
-  },
-  "mot": "porte-drapeau"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4803"
   },
   "mot": "portée"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4804"
-  },
-  "mot": "porte-enseigne"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4805"
   },
   "mot": "portées"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4806"
-  },
-  "mot": "porte-étendard"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4807"
@@ -82923,11 +82183,6 @@
     "$oid": "63fdca86dc4b9b19d10f480b"
   },
   "mot": "portent"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f480c"
-  },
-  "mot": "porte-plume"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f480d"
@@ -83270,11 +82525,6 @@
   "mot": "potassium"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4851"
-  },
-  "mot": "pot-de-vin"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4852"
   },
   "mot": "pote"
@@ -83338,11 +82588,6 @@
     "$oid": "63fdca86dc4b9b19d10f485e"
   },
   "mot": "potiron"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f485f"
-  },
-  "mot": "pot-pourri"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4860"
@@ -83923,11 +83168,6 @@
     "$oid": "63fdca86dc4b9b19d10f48d3"
   },
   "mot": "prêcher"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f48d4"
-  },
-  "mot": "prêchi-prêcha"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f48d5"
@@ -85648,11 +84888,6 @@
     "$oid": "63fdca86dc4b9b19d10f4a2c"
   },
   "mot": "processus"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4a2d"
-  },
-  "mot": "procès-verbal"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4a2e"
@@ -87520,11 +86755,6 @@
   "mot": "pull"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4ba3"
-  },
-  "mot": "pull-over"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4ba4"
   },
   "mot": "pullulation"
@@ -88018,16 +87248,6 @@
     "$oid": "63fdca86dc4b9b19d10f4c06"
   },
   "mot": "queue"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4c07"
-  },
-  "mot": "queue-de-morue"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4c08"
-  },
-  "mot": "queue-de-pie"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4c09"
@@ -89168,11 +88388,6 @@
     "$oid": "63fdca86dc4b9b19d10f4cec"
   },
   "mot": "raser"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4ced"
-  },
-  "mot": "ras-le-bol"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4cee"
@@ -92255,11 +91470,6 @@
   "mot": "remporter"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4f56"
-  },
-  "mot": "remue-ménage"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f4f57"
   },
   "mot": "remuer"
@@ -92423,11 +91633,6 @@
     "$oid": "63fdca86dc4b9b19d10f4f77"
   },
   "mot": "rendez"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f4f78"
-  },
-  "mot": "rendez-vous"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f4f79"
@@ -95215,11 +94420,6 @@
   "mot": "révulsé"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f51a6"
-  },
-  "mot": "rez-de-chaussée"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f51a7"
   },
   "mot": "rhapsode"
@@ -96150,11 +95350,6 @@
   "mot": "rougeaud"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5261"
-  },
-  "mot": "rouge-gorge"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5262"
   },
   "mot": "rougeoyer"
@@ -96745,11 +95940,6 @@
   "mot": "sacrilège"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f52d8"
-  },
-  "mot": "sacro-saint"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f52d9"
   },
   "mot": "sacs"
@@ -96773,11 +95963,6 @@
     "$oid": "63fdca86dc4b9b19d10f52dd"
   },
   "mot": "sage"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f52de"
-  },
-  "mot": "sage-femme"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f52df"
@@ -97240,11 +96425,6 @@
   "mot": "sang versé"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f533b"
-  },
-  "mot": "sang-froid"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f533c"
   },
   "mot": "sanglant"
@@ -97353,11 +96533,6 @@
     "$oid": "63fdca86dc4b9b19d10f5351"
   },
   "mot": "sapes"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5352"
-  },
-  "mot": "sapeur-pompier"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5353"
@@ -97545,11 +96720,6 @@
   "mot": "sauf"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5378"
-  },
-  "mot": "sauf-conduit"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5379"
   },
   "mot": "sauge"
@@ -97608,11 +96778,6 @@
     "$oid": "63fdca86dc4b9b19d10f5384"
   },
   "mot": "saut"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5385"
-  },
-  "mot": "saut-de-lit"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5386"
@@ -98520,11 +97685,6 @@
   "mot": "sélective"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f543b"
-  },
-  "mot": "self-control"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f543c"
   },
   "mot": "Selim"
@@ -99255,11 +98415,6 @@
   "mot": "serveuse"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f54ce"
-  },
-  "mot": "servez-vous"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f54cf"
   },
   "mot": "servi"
@@ -99528,11 +98683,6 @@
     "$oid": "63fdca86dc4b9b19d10f5504"
   },
   "mot": "show"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5505"
-  },
-  "mot": "show-business"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5506"
@@ -100245,11 +99395,6 @@
   "mot": "snack"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5594"
-  },
-  "mot": "snack-bar"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5595"
   },
   "mot": "SNCF"
@@ -100335,11 +99480,6 @@
   "mot": "sociétés"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f55a6"
-  },
-  "mot": "socio-économique"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f55a7"
   },
   "mot": "sociologie"
@@ -100363,11 +99503,6 @@
     "$oid": "63fdca86dc4b9b19d10f55ab"
   },
   "mot": "sociologues"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f55ac"
-  },
-  "mot": "socio-politique"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f55ad"
@@ -100420,11 +99555,6 @@
   "mot": "soi"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f55b7"
-  },
-  "mot": "soi-disant"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f55b8"
   },
   "mot": "soie"
@@ -100453,11 +99583,6 @@
     "$oid": "63fdca86dc4b9b19d10f55bd"
   },
   "mot": "soigneusement"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f55be"
-  },
-  "mot": "soi-même"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f55bf"
@@ -100508,16 +99633,6 @@
     "$oid": "63fdca86dc4b9b19d10f55c8"
   },
   "mot": "soixante"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f55c9"
-  },
-  "mot": "soixante-dix"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f55ca"
-  },
-  "mot": "soixante-dixième"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f55cb"
@@ -101630,41 +100745,6 @@
   "mot": "souscrit"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56a9"
-  },
-  "mot": "sous-cutané"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56aa"
-  },
-  "mot": "sous-développé"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56ab"
-  },
-  "mot": "sous-entendre"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56ac"
-  },
-  "mot": "sous-entendu"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56ad"
-  },
-  "mot": "sous-estimer"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56ae"
-  },
-  "mot": "sous-évaluer"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56af"
-  },
-  "mot": "sous-marin"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f56b0"
   },
   "mot": "Sousse"
@@ -101675,29 +100755,9 @@
   "mot": "soussigné"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56b2"
-  },
-  "mot": "sous-sol"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f56b3"
   },
   "mot": "soustraire"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56b4"
-  },
-  "mot": "sous-traitance"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56b5"
-  },
-  "mot": "sous-traitant"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f56b6"
-  },
-  "mot": "sous-vêtement"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f56b7"
@@ -102448,11 +101508,6 @@
     "$oid": "63fdca86dc4b9b19d10f574c"
   },
   "mot": "steeple"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f574d"
-  },
-  "mot": "steeple-chase"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f574e"
@@ -103915,11 +102970,6 @@
   "mot": "surhumain"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5872"
-  },
-  "mot": "sur-le-champ"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5873"
   },
   "mot": "surmenage"
@@ -104008,11 +103058,6 @@
     "$oid": "63fdca86dc4b9b19d10f5884"
   },
   "mot": "surprise"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5885"
-  },
-  "mot": "surprise-partie"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5886"
@@ -105365,11 +104410,6 @@
   "mot": "tel"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5994"
-  },
-  "mot": "Tel-Aviv"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5995"
   },
   "mot": "télé"
@@ -106565,11 +105605,6 @@
   "mot": "timbré"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5a84"
-  },
-  "mot": "timbre-poste"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5a85"
   },
   "mot": "timbres"
@@ -106815,11 +105850,6 @@
   "mot": "Togo"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5ab6"
-  },
-  "mot": "tohu-bohu"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5ab7"
   },
   "mot": "toi"
@@ -106843,11 +105873,6 @@
     "$oid": "63fdca86dc4b9b19d10f5abb"
   },
   "mot": "toilettes"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5abc"
-  },
-  "mot": "toi-même"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5abd"
@@ -107450,11 +106475,6 @@
   "mot": "tourné"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5b35"
-  },
-  "mot": "tourne-disque"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5b36"
   },
   "mot": "tournée"
@@ -107543,11 +106563,6 @@
     "$oid": "63fdca86dc4b9b19d10f5b47"
   },
   "mot": "toutes"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5b48"
-  },
-  "mot": "tout-puissant"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5b49"
@@ -108880,11 +107895,6 @@
   "mot": "troisièmes"
 },{
   "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5c53"
-  },
-  "mot": "trois-mâts"
-},{
-  "_id": {
     "$oid": "63fdca86dc4b9b19d10f5c54"
   },
   "mot": "trolley"
@@ -109018,11 +108028,6 @@
     "$oid": "63fdca86dc4b9b19d10f5c6e"
   },
   "mot": "troublé"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5c6f"
-  },
-  "mot": "trouble-fête"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5c70"
@@ -110143,11 +109148,6 @@
     "$oid": "63fdca86dc4b9b19d10f5d4f"
   },
   "mot": "vacuum"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5d50"
-  },
-  "mot": "vade-mecum"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5d51"
@@ -113198,11 +112198,6 @@
     "$oid": "63fdca86dc4b9b19d10f5fb2"
   },
   "mot": "wagon"
-},{
-  "_id": {
-    "$oid": "63fdca86dc4b9b19d10f5fb3"
-  },
-  "mot": "wagon-lit"
 },{
   "_id": {
     "$oid": "63fdca86dc4b9b19d10f5fb4"
