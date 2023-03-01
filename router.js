@@ -1,14 +1,16 @@
 var express = require('express');
+const Words = require("./models");
 var router = express.Router();
-const twig = require('twig');
+const app = express();
 
-router.get("/", (req, res) => {
-    res.render("accueil.html.twig");
-});
-
+// http://localhost:3000/mot
 router.get("/mot", (req, res) => {
-    console.log("reception demande serveur : route /mot");
-    res.end('Demande GET');
+    Words.find({}, (err, data) => {
+      res.render('base.html.twig', {
+        mots: data
+      });
+    });
 });
 
+module.exports = app;
 module.exports = router;
